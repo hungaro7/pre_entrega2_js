@@ -5,7 +5,7 @@ console.log("maximo: " + maximo);
 
 let pi = Math.PI;
 console.log("PI =" + pi);
-*/
+xx
 
 let numero= 5.3;
 
@@ -15,3 +15,4 @@ let piso = Math.floor(numero);
 console.log("numero" + numero);
 console.log("techo" + techo);
 console.log("piso" + piso);
+*/
